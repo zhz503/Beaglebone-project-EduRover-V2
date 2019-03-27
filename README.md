@@ -1,4 +1,4 @@
-# BeagleBone project-EduRover(version2)
+# BeagleBone project--EduRover(version2)
 
 ### Project Description:
 
