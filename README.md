@@ -8,6 +8,8 @@ This is an application of the embedded system: Beaglebone. EduRover is originall
 
 Zhaoliang Zheng (zhz503@eng.ucsd.edu)
 
+Dominique E. Meyer (demeyer@ucsd.edu)
+
 Neal Bansal (nkbansal@ucsd.edu)
 
 Pengcheng Cao (p5cao@eng.ucsd.edu)
