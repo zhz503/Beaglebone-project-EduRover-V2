@@ -23,4 +23,4 @@ Junchao Lin (jul025@eng.ucsd.edu)
 
 ### EduRover V2:
 ![](EduRover2.jpg)
-$k_t = \frac{s}{1}$
+
